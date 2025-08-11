@@ -3,7 +3,7 @@
 
 ---
 
-### 📌 <p aling="center">Sobre Mim</p>
+### <p aling="center">📌Sobre Mim</p>
 
 <p align="center">
   🎓 8º período de Ciência da Computação — conclusão em dez/2025  
@@ -15,7 +15,7 @@
 
 ---
 
-### 📫 <p align="center">Contato</p>
+###  <p align="center">📫Contato</p>
 
 <p align="center">
   <a href="mailto:davi.alencar144@gmail.com"><img src="https://img.shields.io/badge/Gmail-davi.alencar144@gmail.com-red?style=for-the-badge&logo=gmail"></a>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ <p aling="center">Tecnologias que estudo</p>
+###  <p aling="center">🛠️Tecnologias que estudo</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 <p aling="center">Estatísticas do GitHub<p/>
+###  <p aling="center">📊Estatísticas do GitHub</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=davidCamposDev&show_icons=true&theme=radical" alt="GitHub Stats" />
