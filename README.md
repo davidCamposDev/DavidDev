@@ -46,10 +46,10 @@
 
 ###  <p aling="center">📊Estatísticas do GitHub</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidCamposDev&show_icons=true&theme=dark&hide_border=true&card_width=420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidCamposDev&layout=compact&theme=dark&hide_border=true&card_width=420" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=davidCamposDev&show_icons=true&theme=dark&hide_border=true&card_width=420" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidCamposDev&layout=compact&theme=dark&hide_border=true&card_width=420" style="vertical-align: middle;" />
+</div>
 
 
 ---
