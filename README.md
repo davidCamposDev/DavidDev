@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o David</h1>
-<h3 align="center">Desenvolvedor apaixonado por qualidade e automação</h3>
+<h3 align="center">Desenvolvedor Front-end e Mobile</h3>
 
 ---
 
