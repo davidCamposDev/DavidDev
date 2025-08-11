@@ -15,7 +15,7 @@
 
 ### 📫 Contato
 
-<p align="left">
+<p align="center">
   <a href="mailto:davi.alencar144@gmail.com"><img src="https://img.shields.io/badge/Gmail-davi.alencar144@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://linkedin.com/in/david-campos-83632a23b"><img src="https://img.shields.io/badge/LinkedIn-David%20Campos-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/davidCamposDev"><img src="https://img.shields.io/badge/GitHub-davidCamposDev-black?style=for-the-badge&logo=github"></a>
