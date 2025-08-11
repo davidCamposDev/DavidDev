@@ -3,7 +3,7 @@
 
 ---
 
-### <p aling="center">📌Sobre Mim</p>
+### <p align="center">📌Sobre Mim</p>
 
 <p align="center">
   🎓 8º período de Ciência da Computação — conclusão em dez/2025  
@@ -25,7 +25,7 @@
 
 ---
 
-###  <p aling="center">🛠️Tecnologias que estudo</p>
+###  <p align="center">🛠️Tecnologias que estudo</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" />
@@ -44,7 +44,7 @@
 
 ---
 
-###  <p aling="center">📊Estatísticas do GitHub</p>
+###  <p align="center">📊Estatísticas do GitHub</p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=davidCamposDev&show_icons=true&theme=dark&hide_border=true&card_width=420" style="vertical-align: middle;" />
